@@ -1,0 +1,49 @@
+h1{
+    margin: 0px 40px 35px 40px;
+}
+p{
+    margin: 10px 0px 0px -280px;
+    font-size: 20px;
+}
+
+body{
+    background-color: #F0E68C;
+}
+
+.p p {
+    margin: 0px 40px 40px 40px;
+}
+
+main img {
+  margin: -20px 40px 100px 125px;
+  width: 450px;
+}
+.p2 p {
+    margin: -90px 0px 0px 0px;
+    color: black;
+}
+
+h3{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+span{
+    background-color: khaki;
+    color: rgb(205, 21, 0);
+}
+p2,p3,p4,p5,p6,p7{
+    font-size: 20px;
+
+}
+p2,p3,p4,p5,p6{
+    margin: 0px 25px 25px 0px;
+}
+.p7 {
+    align-items: center;
+}
+.p7 img{
+  align-items:center;
+  margin: 0px 0px 0px 70px ;
+  width: 550px;
+}
